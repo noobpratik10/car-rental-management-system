@@ -1,0 +1,39 @@
+============================================
+
+Car Model: BMW
+Car Number: MH12RK6789
+Car Color: White
+Fuel Type: Petrol
+Trunk Space: 30 liters
+Mileage: 26
+Gear Type: Automatic
+Kilometers Travelled: 1994606804 km
+Ratings: 0 star
+
+
+============================================
+
+
+Car Model: Tesla
+Car Number: MH05XY6969
+Car Color: Grey
+Fuel Type: Electric
+Trunk Space: 37 liters
+Mileage: 300
+Gear Type: Automatic
+Kilometers Travelled: 1994606804 km
+Ratings: 0 star
+
+
+============================================
+
+
+Car Model: Mercedez
+Car Number: MH04PP2110
+Car Color: Red
+Fuel Type: Petrol
+Trunk Space: 28 liters
+Mileage: 25
+Gear Type: Manual
+Kilometers Travelled: 500 km
+Ratings: 5 stars

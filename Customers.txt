@@ -1,0 +1,13 @@
+============================================
+
+
+
+Customer Name: Pratik
+Customer Address: Pune
+Aadhaar Number: 548725482154
+Mobile Number: 254876321
+Create Password: 1234
+
+
+============================================
+
